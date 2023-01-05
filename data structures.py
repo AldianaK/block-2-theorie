@@ -8,7 +8,7 @@
 dictionaries
 """
 
-#friend_birthday = {"Karlijn": "31-12-2000", "Maggy": "22-12-2001", "Kim": "21-06-2001"}
+#friend_birthday = {"Karlijn": "31-12-2000", "Maggy": "22-02-2001", "Kim": "21-06-2001"}
 
 # if "Kim" in friend_birthday:
 #     print(friend_birthday["Kim"])
